@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![LuyaGuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=luyaguo)
-
 ![Metrics](/github-metrics.svg)
+
+![LuyaGuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=luyaguo)
