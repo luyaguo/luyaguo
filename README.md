@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Metrics](/github-metrics.svg)
 
 ![LuyaGuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=luyaguo)
+
+![Metrics](/github-metrics.svg)
