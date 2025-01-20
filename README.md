@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ![Metrics](/github-metrics.svg)
 
+[![LuyaGuo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luyaguo&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=luyaguo)
