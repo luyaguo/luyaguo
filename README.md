@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 ![Metrics](/github-metrics.svg)
 
-![西伯 GitHub stats](https://github-readme-stats.vercel.app/api?username=luyaguo)
+![LuyaGuo GitHub stats](https://github-readme-stats.vercel.app/api?username=luyaguo)
