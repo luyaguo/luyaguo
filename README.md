@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 ![LuyaGuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=luyaguo)
 
 ![Metrics](/github-metrics.svg)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=luyaguo)
